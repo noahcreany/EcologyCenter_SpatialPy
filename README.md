@@ -5,4 +5,4 @@ This repository contains notebooks for opensource python for geospatial analysis
 1.  Quick Intro to Python
 2.  Make a Map
 3.  Wrangling geometries with Geopandas
-4.  Spatial Statistics (Gdal & OsGeo)
+4.  An intro to ArcPy
