@@ -6,3 +6,8 @@ This repository contains notebooks for opensource python for geospatial analysis
 2.  Make a Map
 3.  Wrangling geometries with Geopandas
 4.  An intro to ArcPy
+
+
+Here are some good resources if you're interested in Python GIS:
+1. https://pygis.io/docs/a_intro.html
+2. https://pythongis.org/index.html
